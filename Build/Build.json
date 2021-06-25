@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Matemago 1",
-"productVersion": "0.1b",
+"productVersion": "0.2b",
 "dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm.code.unityweb",
 "wasmFrameworkUrl": "Build.wasm.framework.unityweb",
